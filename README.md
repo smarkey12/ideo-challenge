@@ -1,2 +1,2 @@
 # ideo-challenge
-sgic
+ideo challenge for Sarah Gillett
